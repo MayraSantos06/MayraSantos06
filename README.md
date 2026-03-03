@@ -9,10 +9,14 @@
    <table>
      <tr>
        <td>
-         <img scr="https://github.com/user-attachments/assets/ea3533f3-cd16-4f14-a73e-cecebd2feadd" wight="200px">
+       <img src="https://github.com/user-attachments/assets/d8830a01-895e-4e9c-964e-cb150ece974d" width="200px" height="200px">  
+       </td>
+       <td>
+         
        </td>
      </tr>
-   </table>
+    
+       
  </div>
 
 <!--
