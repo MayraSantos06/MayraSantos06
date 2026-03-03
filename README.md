@@ -1,10 +1,13 @@
-## Olá, meu nome é Mayra👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/996b3919-4080-417c-a6fe-7b8e0e20c6c5" width="250px" height="200px" "
+</div>
+
+## Meu nome é Mayra👋
 - 🎓 Sou estudante de Engenharia de Software na Puc Minas (Belo Horizonte)
 - 🏗️ Tenho tecnico em Edificações pelo CEFET-MG (Curvelo)
 - 💻 Atualmete aprofundado meus conhecimentos em programação, lógica e densenvolvimento de software
 - 🚀 Focada em evoluir na área da tecnologia
 - 📍Belo Horizonte - MG
-  
  <div>
    <table>
      <tr>
@@ -15,8 +18,6 @@
          <img src="https://github.com/user-attachments/assets/564dd5af-f129-49bf-8461-01daa5ae6fe1"
        </td>
      </tr>
-    
-       
  </div>
 
 <!--
