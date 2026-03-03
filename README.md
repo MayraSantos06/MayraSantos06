@@ -1,7 +1,12 @@
 ## Olá, meu nome é Mayra👋
-:mortar_board:Sou estudante de Engenharia de Software na Puc Minas (Belo Horizonte)
-:triangular_ruler:Tenho tecnico em Edificações pelo CEFET-MG (Curvelo)
-💻
+- 🎓 Sou estudante de Engenharia de Software na Puc Minas (Belo Horizonte)
+- 🏗️ Tenho tecnico em Edificações pelo CEFET-MG (Curvelo)
+- 💻 Atualmete aprofundado meus conhecimentos em programação, lógica e densenvolvimento de software
+- 🚀 Focada em evoluir na área da tecnologia
+- 📍Belo Horizonte - MG
+- 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          https://tenor.com/pt-BR/view/laptop-gif-26065252
 
 
 <!--
