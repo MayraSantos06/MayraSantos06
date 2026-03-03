@@ -5,7 +5,15 @@
 - 🚀 Focada em evoluir na área da tecnologia
 - 📍Belo Horizonte - MG
   
- <div class="tenor-gif-embed" data-postid="8534694479748130293" data-share-method="host" data-aspect-ratio="0.795181" data-width="100%"><a href="https://tenor.com/view/cat-working-focused-grumpy-hiss-gif-8534694479748130293">Cat Working GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>****
+ <div>
+   <table>
+     <tr>
+       <td>
+         <img scr="https://github.com/user-attachments/assets/ea3533f3-cd16-4f14-a73e-cecebd2feadd" wight="200px">
+       </td>
+     </tr>
+   </table>
+ </div>
 
 <!--
 **MayraSantos06/MayraSantos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
