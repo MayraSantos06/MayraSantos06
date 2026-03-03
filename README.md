@@ -3,12 +3,18 @@
 </div>
 
 ## Meu nome é Mayra👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/10d10440-ae5c-4b46-bc04-c227a6eec6a2">
+</div>
+
 - 🎓 Sou estudante de Engenharia de Software na Puc Minas (Belo Horizonte)
 - 🏗️ Tenho tecnico em Edificações pelo CEFET-MG (Curvelo)
 - 💻 Atualmete aprofundado meus conhecimentos em programação, lógica e densenvolvimento de software
 - 🚀 Focada em evoluir na área da tecnologia
 - 📍Belo Horizonte - MG
- <div>
+
+
+   <div>
    <table>
      <tr>
        <td>
