@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, meu nome é Mayra👋
+:mortar_board:Sou estudante de Engenharia de Software na Puc Minas (Belo Horizonte)
+:triangular_ruler:Tenho tecnico em Edificações pelo CEFET-MG (Curvelo)
+💻
+
 
 <!--
 **MayraSantos06/MayraSantos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
