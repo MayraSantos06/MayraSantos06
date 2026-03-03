@@ -4,10 +4,7 @@
 - 💻 Atualmete aprofundado meus conhecimentos em programação, lógica e densenvolvimento de software
 - 🚀 Focada em evoluir na área da tecnologia
 - 📍Belo Horizonte - MG
-- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-          https://tenor.com/pt-BR/view/laptop-gif-26065252
-
+  
 
 <!--
 **MayraSantos06/MayraSantos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
